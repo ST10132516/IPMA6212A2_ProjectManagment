@@ -1,1 +1,3 @@
-Issue Log for company.
+# Issue Log for company.
+
+
