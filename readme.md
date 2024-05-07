@@ -1,4 +1,4 @@
-# Issue Log for company.
+# Issue Log for company GroupB
 
 ## Team Members:
 Motjoka Fanana – ST10089515 <br />
